@@ -1,0 +1,55 @@
+.App {
+    max-width: 1920px !important;
+    margin: 0 auto !important;
+    position: relative;
+    overflow-x: hidden !important;
+}
+
+.css-10lwkp5-MuiPaper-root-MuiAppBar-root{
+  margin: 0 auto !important;
+  background: rgba(0, 0, 0, 0.6) !important;
+  right: none !important;
+}
+.css-55u6o0-MuiPaper-root-MuiAppBar-root{
+  margin: 0 auto !important;
+  left: auto !important;
+  background: rgba(0, 0, 0, 0.6) !important;
+}
+
+.img100vh{
+  width: 100%;
+  height:100vh;
+  object-fit: cover;
+
+}
+
+.css-180lf2n-MuiButtonBase-root-MuiButton-root{
+  color: white !important;
+}
+
+.MuiButton-root{
+  border-radius:30px !important;
+}
+
+
+.css-8ksggj, .css-ttn1xo{
+  padding: 0 !important;
+}
+
+.css-l8bcdf-MuiPaper-root, .css-18m39ot-MuiPaper-root, .css-ljhru1-MuiButtonBase-root-MuiButton-root{
+  color: #fff !important;
+  box-shadow: none !important;
+  background: transparent !important;
+}
+span{
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.css-i9bvnf-MuiTypography-root{
+  margin: '-4px' !important;
+  color: blue !important;
+}
+
+.css-x0x1tz-MuiGrid-root{
+  justify-content: center;
+  }
